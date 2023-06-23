@@ -80,7 +80,7 @@ while True:
         
         PotenciaTT = math.sqrt(3) * voltaje/3 * amperios/3
         print(f'Potencia Trifacica total: {PotenciaTT} W')
-time.sleep(1)
+    time.sleep(1)
  
 
 
